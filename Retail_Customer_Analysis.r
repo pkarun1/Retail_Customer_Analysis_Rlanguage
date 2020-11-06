@@ -31,8 +31,8 @@ library(klaR)
 library(factoextra)
 library(NbClust)
 
-# Input file folder
-setwd("C:/Karun/Personal/Amity/Capstone Project")
+# Input file folder - Update the working directory
+setwd("")
 
 #-----------------------------------------------------------------------------------------------------------------
 #                                  PART I - BASIC OPERATIONS
